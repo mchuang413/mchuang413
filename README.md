@@ -49,7 +49,7 @@ Besides coding, I am also a competitive swimmer. Hope you enjoy checking out my 
 <h3 align="center" style="color:#FF6B6B; font-weight:bold;">🎵 Recently Played</h3>
 
 <div align="center" style="animation: fadeIn 1.2s ease-in-out;">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&theme=coral" alt="Spotify Recently Played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=94nrsuiqj5iajhehevgredtzz&count=5&theme=coral" alt="Spotify Recently Played"/>
 </div>
 
 ---
