@@ -68,13 +68,3 @@ Besides coding, I am also a competitive swimmer. Hope you enjoy checking out my 
 🔗 <b>GitHub:</b> <a href="https://github.com/mchuang413" style="color:#FF6B6B;">mchuang413</a><br>
 📧 <b>Email:</b> <a href="mailto:mchuangyc@gmail.com" style="color:#FF6B6B;">mchuangyc@gmail.com</a>
 </p>
-
----
-
-### **🔥 What’s New?**
-✅ **Rounded profile picture** for a sleek look.  
-✅ **Smooth fade-in animations** on key sections.  
-✅ **Hover effects** on icons and stats for interactivity.  
-✅ **Refined spacing and layout** for a **modern, polished aesthetic**.  
-
-Let me know if you want any **additional tweaks! 🚀**  
