@@ -1,32 +1,3 @@
-<h1 align="center" style="color:#FF6B6B; font-weight:bold;">
-  <span style="animation: fadeIn 1.5s ease-in-out;">Hi there! 👋</span>
-</h1>
-
-<div align="center">
-  <img src="src/image.png" height="200" style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(255,107,107,0.7);" />
-</div>
-
----
-
-<h3 align="center" style="color:#FF6B6B; font-weight:bold;">💻 About Me</h3>
-
-<p align="center" style="animation: slideUp 1s ease-in-out;">
-I'm Michael, a Junior at Cupertino High School. I love coding and building innovative projects.
-Besides coding, I am also a competitive swimmer. Hope you enjoy checking out my work! 🚀
-</p>
-
----
-
-<h3 align="center" style="color:#FF6B6B; font-weight:bold;">📊 GitHub Stats</h3>
-
-<div align="center" style="animation: fadeIn 1.2s ease-in-out;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mchuang413&show_icons=true&count_private=true&theme=coral&hide_border=true&order=1" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mchuang413&layout=compact&langs_count=6&theme=coral&hide_border=true&order=2" height="160" alt="Top Languages"/>
-  <img src="https://streak-stats.demolab.com?user=mchuang413&theme=coral&hide_border=true&order=3" height="160" alt="GitHub Streak"/>
-</div>
-
----
-
 <h3 align="center" style="color:#FF6B6B; font-weight:bold;">🚀 Skills & Tools</h3>
 
 <div align="center" style="animation: slideUp 1s ease-in-out;">
